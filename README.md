@@ -2,6 +2,10 @@
 
 Flutter Posts App: Fetch, Store & Display
 
+## Screenshots
+
+![Screenshot 1](assets/screenshots/1.png)
+
 ## Objective
 
 The goal of this task is to create a Flutter application that fetches posts from a public API, stores them locally using SQLite, and displays them in a user-friendly list format.
