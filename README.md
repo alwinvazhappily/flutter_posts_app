@@ -4,7 +4,7 @@ Flutter Posts App: Fetch, Store & Display
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/1.png | width=300)
+![Screenshot 1](assets/screenshots/1.png){ width=300 }
 
 ## Objective
 
